@@ -46,4 +46,4 @@ pip uninstall flask && python3 -m pip install flask
 ```
 
 Note: Download ffmpeg from https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip and extract it in the c drive with the following folder structure:
-C:/ffmpeg/bin
+`C:/ffmpeg/bin`
